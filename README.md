@@ -1,16 +1,24 @@
 #PTO meta repository
 
-lege til nytt repo `meta project import [folder] [repo url]`
+Meta repository med linking til alle pto sine apper
 
-for og bruke etter du har klonet
+##settup
+
+for og clone ferdig sattopp
+```
+npm i -g meta
+meta clone https://github.com/navikt/pto-meta.git
+```
+Hvis du allerede har clonet
 ```
 npm i -g meta
 meta git update
 ```
 
-eller 
-```
-npm i -g meta
-meta clone https://github.com/navikt/pto-meta.git
-```
-for å se mere om hvordan mete funker se: https://github.com/mateodelnorte/meta
+##leg til nytt repo
+lege til nytt repo `meta project import [folder] [repo url]`
+
+
+
+
+for å se mere om hvordan meta funker se: https://github.com/mateodelnorte/meta
