@@ -10,7 +10,6 @@
     "frontendlogger": "https://github.com/navikt/frontendlogger.git",
     "pinpoint": "https://github.com/navikt/pinpoint.git",
     "archive/pto-deploy": "https://github.com/navikt/pto-deploy.git",
-    "archive": "https://github.com/navikt/.git",
     "archive/pto-deploy-api": "https://github.com/navikt/pto-deploy-api.git",
     "pto-frontend": "https://github.com/navikt/pto-frontend.git",
     "pto-pdfgen": "https://github.com/navikt/pto-pdfgen.git",
