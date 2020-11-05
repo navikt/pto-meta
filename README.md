@@ -6,12 +6,12 @@ Meta repository med linking til alle pto sine apper
 
 for og clone ferdig sattopp
 ```
-npm i -g meta
-meta clone https://github.com/navikt/pto-meta.git
+sudo npm i -g meta
+meta git clone https://github.com/navikt/pto-meta.git
 ```
 Hvis du allerede har clonet
 ```
-npm i -g meta
+sudo npm i -g meta
 meta git update
 ```
 
