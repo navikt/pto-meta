@@ -1,8 +1,8 @@
-#PTO meta repository
+# PTO meta repository
 
 Meta repository med linking til alle pto sine apper
 
-##settup
+## settup
 
 for og clone ferdig sattopp
 ```
@@ -15,7 +15,7 @@ npm i -g meta
 meta git update
 ```
 
-##leg til nytt repo
+## leg til nytt repo
 lege til nytt repo `meta project import [folder] [repo url]`
 
 
